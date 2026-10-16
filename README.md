@@ -10,7 +10,7 @@ NorthStar Distribution operates in the FMCG distribution industry, supplying eve
 This project examines how the company manages these operations and where changes could help reduce costs, improve stock availability, and make better use of its resources.
 
 ## Data Source
-The project used the NorthStar Distribution FMCG Supply Chain dataset from Kaggle, covering January 2022 to December 2024. The structured, transactional data includes approximately 190,000 daily sales records, 41,580 weekly inventory records, 25,729 supplier orders, and 88,158 truck-load lines representing 41,959 loads, alongside product, retailer, supplier, distribution centre, and fuel price details.
+The project used the [NorthStar Distribution FMCG Supply Chain Dataset](https://www.kaggle.com/datasets/jasonsunnn/northstar-distribution-fmcg-supply-chain-dataset) from Kaggle, covering January 2022 to December 2024. The structured, transactional data includes approximately 190,000 daily sales records, 41,580 weekly inventory records, 25,729 supplier orders, and 88,158 truck-load lines representing 41,959 loads, alongside product, retailer, supplier, distribution centre, and fuel price details.
 
 ## Problem Statement
 Stakeholders at NorthStar Distribution, including supply chain managers, inventory planners, and transportation managers want to know:
