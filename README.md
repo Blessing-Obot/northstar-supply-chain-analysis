@@ -2,7 +2,9 @@
 
 ## Executive Summary
 This project analyzed NorthStar Distribution Co.’s supply chain performance from 2022 to 2024, examining demand trends, inventory management, and transportation efficiency across 100 retailers in three US regions. The objective was to identify operational inefficiencies, understand their impact on business performance, and recommend practical improvements.
+
 The analysis revealed three major challenges. First, sales declined by 0.9% in 2024 compared with 2023, with monthly sales remaining below the previous year’s levels from May onward. Second, approximately $1.01 million in inventory, representing around 20% of its value, was identified as excess stock, particularly in Yogurt and SnackBar, while Milk and Ready Meal experienced stockouts. Third, trucks operated at 61% of their weight capacity, indicating significant unused space, while around 40% of deliveries took four or more days across regions, sales channels, and product categories.
+
 Based on these findings, the project recommended combining partially loaded shipments to improve truck utilization, reviewing excess inventory and reallocating stock toward products experiencing shortages, and adopting cautious demand planning in response to slowing sales. Improved transportation efficiency could yield estimated annual savings of $4.5 million, while reviewing excess inventory could identify up to $0.99 million for potential cash release. These estimates have limitations: transportation costs were calculated using stated assumptions because distance travelled and fuel consumption per load were unavailable, and further investigation is needed to determine the causes of delivery delays.
 
 ## Project Overview
